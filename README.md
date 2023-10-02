@@ -4,8 +4,8 @@ Raspbian service to read out the Robo-Tank pH sensor data without communication 
 ## Installation
 
  - in SSH command console type:
- - sudo wget -c https://github.com/Sral931/pH_service/releases/download/1.0/pH_service_1.0.zip
- - sudo unzip pH_service_1.0.zip
+ - sudo wget -c [https://github.com/Sral931/pH_service/releases/download/1.0/pH_service_1.0.zip](https://github.com/danmrossi/pH_service/archive/refs/tags/pH_service_1.1.zip)
+ - sudo unzip pH_service_1.1.zip
  - sudo bash install_pH.sh
  
  - the install script will copy all files, start the necessary service and clean up the install files afterwards

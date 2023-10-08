@@ -7,7 +7,7 @@
     echo ""
     echo ""
     echo ""
-    echo "Copyright (c) 2022 Sral"
+    echo "Copyright (c) 2023 Sral"
     echo ""
     echo "Licensed under the Apache License, Version 2.0 (the 'License');"
     echo "you may not use this file except in compliance with the License."
@@ -50,7 +50,7 @@
     sudo rm -r src/
 	sudo rm -r LICENSE
 	sudo rm -r README.md
-    sudo rm pH_service_1.0.zip
+    sudo rm pH_service_1.1.zip
     sudo rm install_pH.sh
 
     echo "Establishing and starting service..."

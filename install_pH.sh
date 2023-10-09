@@ -50,7 +50,7 @@
     sudo rm -r src/
 	sudo rm -r LICENSE
 	sudo rm -r README.md
-    sudo rm pH_service_1.1.zip
+    sudo rm pH_service_1.2.zip
     sudo rm install_pH.sh
 
     echo "Establishing and starting service..."
